@@ -11,8 +11,6 @@
 		<input type="" placeholder="password" name="password">
 		<button>Enter</button>	
 	</form>
-	<?php echo $_GET['name'] ?>
-
 	<a href="">Я не помню пароль</a>
 </body>
 </html>
