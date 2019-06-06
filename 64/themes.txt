@@ -1,0 +1,77 @@
+/* ИНСТРУКЦИЯ */
+
+В пн. вы должны прийти с несколькими идеями.
+
+1. Это примерные темы сайтовю. Вы можете взять за основу какой-нибудь сайт и изменить его под себя. Контент выбираете сами.
+Примеры: новостной сайт про то что вам нравится, афиша аниме фильмов, доставка любимой еды.
+2. Если у вас есть своя идея. Используйте ее.
+3. Если есть какой-то реальный сайт, но на нем нет функции, которая вам нравится. Вы можете добавить эти функции.
+
+/* ТЕМЫ */
+1. Новостной сайт с админ-панелью
+https://mel.fm/
+https://lifehacker.ru/
+https://naked-science.ru/
+
+2. Социальные сети
+https://www.pinterest.com/
+https://vk.com/
+
+3. Сайт тестов
+https://medaboutme.ru/obraz-zhizni/servisy/testy/
+
+4. Доска объявлений
+https://youla.ru/
+https://m.avito.ru/
+
+5. Афиша
+https://afisha.yandex.ru/
+http://afisha.ykt.ru
+https://www.kinopoisk.ru/
+
+6. Видеохостинг
+http://youtube.com
+https://yandex.ru/video
+
+7. Интернет-магазин
+https://ru.aliexpress.com/
+https://www.asos.com/
+https://www2.hm.com/
+https://www.zara.com/ru/
+https://www.amazon.com/
+
+8. Сайт доставки еды
+http://food-boom.ru/
+http://eda.ykt.ru/
+
+9. Покупка билетов:
+Авиабилеты:
+https://www.aviasales.ru/
+https://www.skyscanner.ru/
+https://www.s7.ru/
+Билеты в кино
+
+10. Сайт погоды
+https://www.gismeteo.ru/
+https://yandex.ru/pogoda
+Поиск работы
+http://rabota.ykt.ru/
+https://hh.ru/
+
+11. Сайт для прослушивания музыки
+https://music.yandex.ru/
+
+12. Онлайн запись к кому-то
+онлайн запись к доктору,
+онлайн запись в тату-салон,
+онлайн-запись в салон красоты:
+https://n65874.yclients.com/
+
+13. онлайн аренда спортивных вещей:
+прокат велосипедов,
+прокат коньков, 
+прокат сноубордов
+
+14. Сайт для просмотра фильмов
+https://www.ivi.ru/
+https://www.netflix.com/
